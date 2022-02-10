@@ -20,7 +20,7 @@ As a simplified language, Mini-LISP has only three types (Boolean, number and fu
 
 ### Operation Overview
 <img src="https://upload.cc/i1/2022/02/10/EedZhI.png" width="650" height="230">  
-<img src="https://upload.cc/i1/2022/02/10/gay5Uz.png" width="550" height="130">
+<img src="https://upload.cc/i1/2022/02/10/gay5Uz.png" width="560" height="120">
 
 # Environment
 - Windows10, 64 bits
@@ -43,7 +43,8 @@ As a simplified language, Mini-LISP has only three types (Boolean, number and fu
 4. ```a.exe```  
 
 # To run the code
-To run with test data, open the cmd under the folder ```test_data```, and use the command below :  
+- To run with test data, open the cmd under the folder ```test_data```, and use the command below :  
 ```a.exe < 01_1.lsp```  
+(Note: "01_1" is the filename for the testcase in lsp format.)  
 
-(Note: "01_1" is the filename for the testcase in lsp format.)
+- The answers for the test data are provided in ```testdata_ans```.

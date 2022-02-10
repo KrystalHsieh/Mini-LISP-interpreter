@@ -47,4 +47,4 @@ As a simplified language, Mini-LISP has only three types (Boolean, number and fu
 ```a.exe < 01_1.lsp```  
 (Note: "01_1" is the filename for the testcase in lsp format.)  
 
-- The answers for the test data are provided in ```testdata_ans```.
+- The answers for the test data are provided in [testdata_ans.pdf](https://github.com/KrystalHsieh/Mini-LISP-interpreter/files/8040440/testdata_ans.pdf).
